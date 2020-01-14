@@ -1,2 +1,3 @@
 # one_shot_learning_Omniglot
- extract one shot data from omniglot data
+This is an evaluation record data that use our proposed method on the Omniglot dataset. 
+
